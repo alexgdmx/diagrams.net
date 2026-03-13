@@ -19,10 +19,10 @@
         <mxCell id="xXAQXhGdh_zKKgFFkiad-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="320" width="200" x="720" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="xXAQXhGdh_zKKgFFkiad-7" edge="1" parent="1" source="xXAQXhGdh_zKKgFFkiad-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#33FF33;strokeWidth=3;" target="xXAQXhGdh_zKKgFFkiad-2">
+        <mxCell id="xXAQXhGdh_zKKgFFkiad-7" edge="1" parent="1" source="xXAQXhGdh_zKKgFFkiad-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#33FF33;strokeWidth=3;startArrow=classic;startFill=1;" target="xXAQXhGdh_zKKgFFkiad-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xXAQXhGdh_zKKgFFkiad-36" edge="1" parent="1" source="xXAQXhGdh_zKKgFFkiad-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF8000;strokeWidth=3;" target="xXAQXhGdh_zKKgFFkiad-34">
+        <mxCell id="xXAQXhGdh_zKKgFFkiad-36" edge="1" parent="1" source="xXAQXhGdh_zKKgFFkiad-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF8000;strokeWidth=3;endArrow=cross;endFill=0;startArrow=cross;startFill=0;" target="xXAQXhGdh_zKKgFFkiad-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="50" y="110" />
@@ -30,19 +30,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXAQXhGdh_zKKgFFkiad-37" connectable="0" parent="xXAQXhGdh_zKKgFFkiad-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;TO UPLOAD OVA IMAGE&amp;nbsp;" vertex="1">
+        <mxCell id="xXAQXhGdh_zKKgFFkiad-37" connectable="0" parent="xXAQXhGdh_zKKgFFkiad-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;&amp;nbsp;TO UPLOAD OVA IMAGE TO A RANDOM MEMBER OF THE VCENTER CLUSTER&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0765" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXAQXhGdh_zKKgFFkiad-65" edge="1" parent="1" source="xXAQXhGdh_zKKgFFkiad-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#33FF33;strokeWidth=3;" target="xXAQXhGdh_zKKgFFkiad-41">
+        <mxCell id="xXAQXhGdh_zKKgFFkiad-65" edge="1" parent="1" source="xXAQXhGdh_zKKgFFkiad-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#33FF33;strokeWidth=3;startArrow=classic;startFill=1;" target="xXAQXhGdh_zKKgFFkiad-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="70" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXAQXhGdh_zKKgFFkiad-66" edge="1" parent="1" source="xXAQXhGdh_zKKgFFkiad-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;strokeWidth=3;" target="xXAQXhGdh_zKKgFFkiad-58">
+        <mxCell id="xXAQXhGdh_zKKgFFkiad-66" edge="1" parent="1" source="xXAQXhGdh_zKKgFFkiad-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;strokeWidth=3;endArrow=cross;endFill=0;startArrow=cross;startFill=0;" target="xXAQXhGdh_zKKgFFkiad-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="50" y="540" />
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXAQXhGdh_zKKgFFkiad-69" connectable="0" parent="xXAQXhGdh_zKKgFFkiad-66" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;TO UPLOAD OVF IMAGE&amp;nbsp;" vertex="1">
+        <mxCell id="xXAQXhGdh_zKKgFFkiad-69" connectable="0" parent="xXAQXhGdh_zKKgFFkiad-66" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#CC0000;" value="&amp;nbsp;TO UPLOAD OVF IMAGE TO A RANDOM MEMBER OF THE VCENTER CLUSTER" vertex="1">
           <mxGeometry relative="1" x="0.1586" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -198,10 +198,15 @@
         <mxCell id="xXAQXhGdh_zKKgFFkiad-57" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="ESXI_XXXX" vertex="1">
           <mxGeometry height="60" width="120" x="770" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="xXAQXhGdh_zKKgFFkiad-59" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" value="">
+        <mxCell id="xXAQXhGdh_zKKgFFkiad-59" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=6;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-150" y="490" as="sourcePoint" />
             <mxPoint x="1080" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QFzr15jbU70Q9nFRLrf3-3" connectable="0" parent="xXAQXhGdh_zKKgFFkiad-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontColor=#FF0000;" value="&lt;b&gt;&amp;nbsp;FIREWALL&amp;nbsp;&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1055" y="2" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xXAQXhGdh_zKKgFFkiad-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CHD DATACENTER" vertex="1">
