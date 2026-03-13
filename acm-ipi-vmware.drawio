@@ -7,7 +7,7 @@
         <mxCell id="xXAQXhGdh_zKKgFFkiad-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=none;strokeColor=light-dark(#ff0000, #ededed);strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="400" width="1040" x="-80" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="xXAQXhGdh_zKKgFFkiad-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="xXAQXhGdh_zKKgFFkiad-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeWidth=2;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="320" width="200" x="730" y="560" as="geometry" />
         </mxCell>
         <mxCell id="xXAQXhGdh_zKKgFFkiad-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=none;strokeColor=#3333FF;strokeWidth=3;" value="" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="xXAQXhGdh_zKKgFFkiad-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OMA DATACENTER" vertex="1">
           <mxGeometry height="30" width="130" x="-80" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="xXAQXhGdh_zKKgFFkiad-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=2;" value="" vertex="1">
+        <mxCell id="xXAQXhGdh_zKKgFFkiad-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeWidth=2;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="320" width="200" x="720" y="130" as="geometry" />
         </mxCell>
         <mxCell id="xXAQXhGdh_zKKgFFkiad-7" edge="1" parent="1" source="xXAQXhGdh_zKKgFFkiad-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#33FF33;strokeWidth=3;startArrow=classic;startFill=1;" target="xXAQXhGdh_zKKgFFkiad-2">
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xXAQXhGdh_zKKgFFkiad-69" connectable="0" parent="xXAQXhGdh_zKKgFFkiad-66" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#CC0000;" value="&amp;nbsp;TO UPLOAD OVF IMAGE TO A RANDOM MEMBER OF THE VCENTER CLUSTER" vertex="1">
+        <mxCell id="xXAQXhGdh_zKKgFFkiad-69" connectable="0" parent="xXAQXhGdh_zKKgFFkiad-66" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontColor=#CC0000;" value="&amp;nbsp;TO UPLOAD OVF IMAGE TO A RANDOM MEMBER OF THE VCENTER CLUSTER&amp;nbsp;" vertex="1">
           <mxGeometry relative="1" x="0.1586" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
